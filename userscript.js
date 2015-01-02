@@ -11,7 +11,7 @@
 
 function doIt() {
     var myReasons = {
-        scrub: "Fucking sucks ass, uninstall you goddamned scrub",
+        scrub: "Fucking sucks ass, uninstall you scrub",
         annoying: "Annoying as hell",
         hate: "HAAAAAATE"
     };
